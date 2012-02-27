@@ -1,0 +1,6 @@
+zaurus-t-dkms (20120226) stable; urgency=low
+
+  * Automatically packaged by DKMS.
+
+ -- Dynamic Kernel Modules Support Team <pkg-dkms-maint@lists.alioth.debian.org>  Mon, 27 Feb 2012 00:57:22 +0900
+

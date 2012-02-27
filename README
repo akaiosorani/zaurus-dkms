@@ -1,0 +1,6 @@
+
+dkms for Linux kernel zaurus module 
+
+* following commit broak zaurus.ko functionality
+http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=blobdiff;f=drivers/net/usb/zaurus.c;h=f701d412708717b8d27810846760c5806e2a4727;hp=1a2234c20514f88e22bd07dab26e4b25d4cc26ea;hb=HEAD;hpb=16adf5d07987d93675945f3cecf0e33706566005
+* this dkms module is revert to old driver source and for auto-install with kernel upgrade
